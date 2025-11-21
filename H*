@@ -1,6 +1,24 @@
 <on>
-sudo get upgrade
-flash install system
-git clone https://github.com/sophos/solarwinds-threathunte>file 
-git clone https://github.com/sophos/asbestomolesto/Mindguard
->file 
+<2>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<2>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+<2>
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+Press: ALT+F4
+git clone https://github.com/jellybabypsi/system7.1
+°click yes for freedom^
+from Brenton 
+
+pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminated."
