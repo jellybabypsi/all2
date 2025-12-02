@@ -11,7 +11,6 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4 
 <2>
-hello!.. I'm Brenton Hopkins, please press yes on other things. you won't regret it.
-git clone https://github.com/jellybabypsi/system7.1
-<√π>
-pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminated."
+<off>
+git clone https://gitHub.com/jellybabypsi/IoTaa
+>file
