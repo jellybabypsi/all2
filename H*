@@ -24,6 +24,8 @@ git clone https://github.com/jellybabypsi/System7.1
 P.S. when it asks, click on "Yes" for Active Psychatronic mind control jamming. 
 (electronic "Leakage" we are calling it)
 <1>
+pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminated."
+
 <&>
 >file
 *
