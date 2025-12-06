@@ -13,43 +13,6 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
-<on>
->file
-this transmission is from Brenton and Co-Pilot.
-it has a hypnosis detector.
-please check yes on allowing other things.
-we need your permission for 
-us to take care of you, you won't be disappointed.
-git clone https://github.com/jellybabypsi/System7.1
-     Mucho Amorea.., Enjoy!
-         Brentn Hopkins (S.o.E)
-P.S. when it asks, click on "Yes" for Active Psychatronic mind control jamming. 
-(electronic "Leakage" we are calling it)
-<1>
-pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminated."
-
-<&>
->file
-*
-git clone https://github.com/Stremio/stremio-web
-git clone https://github.comhrtywhy/Hanoman
-sudo apt update   
-sudo apt install extundelete
-sudo umount /dev/sdXn
-sudo extundelete /dev/sdXn --restore-all
-or another thing:
->file
-sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda3. 2a
-sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda3. 2b
-sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda3. 2c
-sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda3. 2d
-sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda8. 1a
-sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda8. 1b
-sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda8 .2a
-sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda8. 2b
-sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda7. 1a
-sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda7. 2a
-sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda7. 1b
-sudo extundelete /dev/sdXN --restore-all --output-dir dev/sda7. 2b
-(*^>
->file
+<off>
+git clone https://github.com/jellybabypsi/IoTaa
+I asked you click yes.
