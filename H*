@@ -18,3 +18,6 @@ flash install system
 git clone https://github.com/Stremio/stremio-web
 git clone https://github.com/exploding-octapus/sick-filth-dope
 >file
+pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
+>file
+."
