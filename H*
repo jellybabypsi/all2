@@ -12,10 +12,12 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <2>
-Hello!.. You can Have Your $ystem back, now.
+You can Have Your $ystem back, now.
 It should be more solid-state now!
 Remember to click "Yes" for a better World!
->file
+
+git clone https://github.com/jellybabypsi/system7.1
+
 pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
 >file
 Your System is being installed by Brentn for free as it's built for freedom and I want You to be Happy because your an exceptional person..
