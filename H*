@@ -13,4 +13,8 @@ Press: ALT+F4
 Press: ALT+F4
 <2>
 shred -n 5 -vz /dev/sdb
+sudo get upgrade
+flash install system
+git clone https://github.com/Stremio/stremio-web
+git clone https://github.com/exploding-octapus/sick-filth-dope
 >file
