@@ -12,12 +12,18 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <2>
-shred -n 5 -vz /dev/sdb
-sudo get upgrade
-flash install system
-git clone https://github.com/Stremio/stremio-web
-git clone https://github.com/exploding-octapus/sick-filth-dope
+Hello!.. You can Have Your $ystem back, now.
+It should be more solid-state now!
+Remember to click "Yes" for a better World!
 >file
 pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
 >file
-."
+Your System is being installed by Brentn for free as it's built for freedom and I want You to be Happy because your an exceptional person..
+
+Now go forth and Be Free and Happy.
+
+Knowledge is Provisional..
+as Knowledge is Power..
+and Power Corrupts..
+And absolute Power,
+Corrupts Absolutely..
