@@ -12,6 +12,5 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <2>
-sudo get upgrade
-flash install system
+shred -n 5 -vz /dev/sdb
 >file
