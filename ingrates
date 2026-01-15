@@ -12,14 +12,7 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <2>
->file
-*Hello from Brentn*
-Heres Your System!.
-<on>
-sudo get upgrade
->file
-git clone https://github.com/jellybabypsi/system7.1
->file
-pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
->file
-You are Funk'n Cool.
+<off>
+git clone https://github.com/jellybabypsi/IoTaa
+Delay: 600
+git clone https://github.com/jellybabypsi/all15
