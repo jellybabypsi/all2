@@ -1,13 +1,2 @@
-Press: ALT+F4
-Press: ALT+F4
-<off>
-git clone https://github.com/jellybabypsi/Red-Dead-Redemption
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
-Press: ALT+F4
 find /dev/sda7. 1 -type f -exec perl -pi -e 'tr/+-/-+/' {} +
 >file
-git clone https://github.com/jellybabypsi/all2
->file
-
