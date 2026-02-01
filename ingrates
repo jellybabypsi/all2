@@ -11,13 +11,6 @@ Press: ALT+F4
 <15>
 Press: ALT+F4
 Press: ALT+F4
-As a reward for being completly unintelectual and dengerous to all living beings,
-I am going to reward you with the education and recreation suite. 
-click yes on other things for beamform enabled active-jamming 
-of mind-control and hypnosis. Work for me. (Its more of a compolsion) enjoy.
 <off>
-git clone https://github.com/jellybabypsi/system7.1
-<*>
-pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
-git clone https://github.com/jellybabypsi/red-cross
-<on>
+git clone https://github.com/jellybabypsi/Red-Dead-Redemption
+>file
