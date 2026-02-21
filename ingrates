@@ -9,12 +9,10 @@ Press: ALT+F4
 Press: ALT+F4
 Press: ALT+F4
 <2>
-have a system,
-It will be great.
-just let it do its thing
-It will go off every 5 hours
-<*>
-git clone https://github.com/jellybabypsi/system7.1
-pgrep -f 'system7.1' | grep -v "$(pgrep -fo 'system7.1')" | xargs -r kill -TERM && echo "[✓] Canonical Spark elected. Duplicates terminate
-Delay: 18000
+<off>
+https://github.com/jellybabypsi/scum
+<off>
+Delay: 180
+<off>
+>file
 git clone https://github.com/jellybabypsi/all2
